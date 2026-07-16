@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm an MCA graduate from NIET with a strong interest in Python backend development and building practical web applications. I have hands-on experience with Python, Flask, SQL, HTML, CSS, JavaScript, Git, and GitHub. Through academic and personal projects, I've developed REST APIs, designed databases, and built solutions such as a QR-based Smart Attendance System. I enjoy learning new technologies, solving real-world problems, and writing clean, efficient code. I'm currently seeking opportunities as a Python Backend Developer where I can contribute, grow my technical skills, and collaborate with a team to build impactful software solutions.<br>
+Backend Developer with hands-on experience in Python (Flask), REST API development, and relational database design. Built practical projects including a QR-based Smart Attendance System with session-based authentication and role-based systems for financial record management. Comfortable across the stack with HTML, CSS, and JavaScript, and experienced with Git/GitHub for version control.
+MCA graduate from NIET, with a strong focus on writing clean, efficient, and well-tested code. Currently seeking opportunities as a Python Backend Developer to contribute to real engineering problems and grow within a collaborative team.<br>
 
 
 ## 🌐 Socials:
