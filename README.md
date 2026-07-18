@@ -2,7 +2,7 @@
 
 ## Backend Developer | Python (Flask) | Node.js | REST APIs
 
-I hold a Master of Computer Applications (MCA) from Noida Institute of Engineering & Technology and have hands-on experience building backend applications using Python (Flask), Node.js, REST APIs, and relational databases. During my internship at GraminiO Technologies Pvt. Ltd., I gained practical experience in manual testing, API validation, defect reporting, and collaborating with development teams throughout the software development lifecycle. I am currently seeking opportunities as a Backend Developer where I can contribute to building reliable and scalable software solutions.
+I hold a **Master of Computer Applications (MCA)** from Noida Institute of Engineering & Technology and have hands-on experience building backend applications using **Python (Flask), Node.js, REST APIs, and relational databases**. During my internship at **GraminiO Technologies Pvt. Ltd.**, I gained practical experience in **manual testing, API validation, defect reporting, and collaborating with development teams** throughout the software development lifecycle. I am currently **seeking opportunities as a Backend Developer** where I can contribute to building reliable and scalable software solutions.
 
 ---
 
