@@ -1,14 +1,92 @@
-# 💫 About Me:
-Backend Developer with hands-on experience in Python (Flask), REST API development, and relational database design. Built practical projects including a QR-based Smart Attendance System with session-based authentication and role-based systems for financial record management. Comfortable across the stack with HTML, CSS, and JavaScript, and experienced with Git/GitHub for version control.
-MCA graduate from NIET, with a strong focus on writing clean, efficient, and well-tested code. Currently seeking opportunities as a Python Backend Developer to contribute to real engineering problems and grow within a collaborative team.<br>
+# Hi, I'm Aakanksha Kumari 👋
 
+## Backend Developer | Python (Flask) | Node.js | REST APIs
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha10/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakanksha.bth24@gmail.com) 
+I'm currently pursuing a **Master of Computer Applications (MCA)** at Noida Institute of Engineering & Technology and working as a **QA Intern at GraminiO Technologies Pvt. Ltd.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+I enjoy building backend applications with a focus on clean architecture, REST APIs, authentication, and database design. Alongside backend development, my QA internship has strengthened my understanding of software quality, testing, and the complete software development lifecycle.
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+**Backend**
+- Python (Flask)
+- Node.js
+- REST APIs
+
+**Programming**
+- Python
+- JavaScript
+- C
+- SQL
+
+**Databases**
+- MySQL
+- SQLite
+- MongoDB
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Tools**
+- Git
+- GitHub
+- Linux
+- Thunder Client
+- Render
+
+---
+
+## 🚀 Featured Projects
+
+### Smart Attendance System
+A QR code-based attendance management system built using **Python (Flask), Node.js, MySQL, HTML, CSS, and JavaScript**.
+
+**Features**
+- QR code attendance
+- Session-based authentication
+- Admin & Teacher portals
+- REST APIs
+- Attendance reporting
+
+---
+
+### Finance Backend API
+
+A RESTful backend application developed using **Node.js, Express.js, and SQLite**.
+
+**Features**
+- User Management APIs
+- Financial Record APIs
+- Dashboard Summary APIs
+- Role-Based Access Control (RBAC)
+
+---
+
+### UI Generator
+
+A web application that generates starter UI layouts from user input to accelerate frontend development.
+
+---
+
+## 🌱 Currently Learning
+
+- Backend System Design
+- API Security
+- Database Optimization
+- Software Engineering Best Practices
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: **aakanksha.bth24@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/aakanksha-kumari-niet/
+
+🐙 GitHub:
+https://github.com/Aakanksha560
